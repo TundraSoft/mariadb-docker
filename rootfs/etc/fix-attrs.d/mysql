@@ -1,0 +1,2 @@
+/data true mysql:mysql 0755 0755
+/var/run/mysqld true mysql:mysql 0755 0755
